@@ -1,0 +1,22 @@
+Ejercicio1
+Pedir el radio de un círculo y calcular su área. A=PI*r^2. 
+
+Ejercicio2
+Pedir el radio de una circunferencia y calcular su longitud
+
+Ejercicio3
+Pedir dos números y decir si son mayores o menores.
+
+Ejercicio4
+Pedir dos números y decir si son iguales o no. 
+
+Ejercicio6
+Pedir una nota de 0 a 10 y mostrarla de la forma: Insuficiente, Suficiente, Bien... 
+
+----
+
+Ejercicio 7 
+Pedir una hora de la forma hora, minutos y segundos, y mostrar la hora en el segundo siguiente. 
+
+Ejercicio 8 
+Leer un número e indicar si es positivo o negativo. El proceso se repetirá hasta que se introduzca un 0. 
